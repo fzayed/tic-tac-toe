@@ -1,2 +1,2 @@
 # Tic Tac Toe Game
-## A simple Tic Tac Toe implementation in the Java language.
+## A simple implementation of the Tic Tac Toe game in the Java language accompanied with JUnit Testing Framework.
