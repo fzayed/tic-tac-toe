@@ -1,1 +1,2 @@
-# A simple Tic Tac Toe implementation in the Java language.
+# Tic Tac Toe Game
+## A simple Tic Tac Toe implementation in the Java language.
